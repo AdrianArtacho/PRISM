@@ -19,9 +19,6 @@ url=https://github.com/AdrianArtacho/teach_GroovePizza
 [submodule "Ressources/🕹Animata"]
 	path = Ressources/🕹Animata
 	url = https://github.com/AdrianArtacho/teach_animata.git
-[submodule "readme-tools"]
-	path = readme-tools
-	url = https://github.com/AdrianArtacho/readme-tools.git
 [submodule "Ressources/🕹Beatbox"]
 	path = Ressources/🕹Beatbox
 	url = https://github.com/AdrianArtacho/teach_beatbox.git
