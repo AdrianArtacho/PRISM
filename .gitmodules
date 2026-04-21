@@ -86,3 +86,6 @@ url=https://github.com/AdrianArtacho/teach_GroovePizza
 [submodule "Ressources/🕹Visualise"]
 	path = Ressources/🕹Visualise
 	url = https://github.com/AdrianArtacho/Visualise.git
+[submodule "Coding/💻tutorials"]
+	path = Coding/💻tutorials
+	url = https://github.com/AdrianArtacho/max_tutorials.git
