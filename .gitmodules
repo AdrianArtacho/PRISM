@@ -92,3 +92,6 @@ url=https://github.com/AdrianArtacho/teach_GroovePizza
 [submodule "Ressources/🕹Grading"]
 	path = Ressources/🕹Grading
 	url = https://github.com/AdrianArtacho/Grading.git
+[submodule "Coding/💻PDF-stats"]
+	path = Coding/💻PDF-stats
+	url = https://github.com/AdrianArtacho/pdf-stats.git
