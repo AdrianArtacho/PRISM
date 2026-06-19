@@ -95,3 +95,7 @@ url=https://github.com/AdrianArtacho/teach_GroovePizza
 [submodule "Coding/💻PDF-stats"]
 	path = Coding/💻PDF-stats
 	url = https://github.com/AdrianArtacho/pdf-stats.git
+[submodule "Ressources/🕹MusikText"]
+	path = Ressources/🕹MusikText
+	url = https://github.com/AdrianArtacho/MusikText.git
+	branch = main
