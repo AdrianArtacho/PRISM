@@ -99,3 +99,6 @@ url=https://github.com/AdrianArtacho/teach_GroovePizza
 	path = Ressources/🕹MusikText
 	url = https://github.com/AdrianArtacho/MusikText.git
 	branch = main
+[submodule "Ressources/🕹️Tonnetz"]
+	path = Ressources/🕹️Tonnetz
+	url = https://github.com/AdrianArtacho/tonnetz.git
