@@ -102,3 +102,6 @@ url=https://github.com/AdrianArtacho/teach_GroovePizza
 [submodule "Ressources/🕹️Tonnetz"]
 	path = Ressources/🕹️Tonnetz
 	url = https://github.com/AdrianArtacho/tonnetz.git
+[submodule "Ressources/🕹Launchpad"]
+	path = Ressources/🕹Launchpad
+	url = https://github.com/AdrianArtacho/launchpad.git
