@@ -54,7 +54,7 @@ url=https://github.com/AdrianArtacho/teach_GroovePizza
 	path = Ressources/🕹DrumMachine
 	url = https://github.com/AdrianArtacho/teach_drummachine.git
 [submodule "Coding/💻KeyboardShortcuts"]
-	path = Coding/💻KeyboardShortcuts
+	path = Workflow/KeyboardShortcuts
 	url = https://github.com/AdrianArtacho/karabiner.git
 [submodule "Ressources/🕹Stationen"]
 	path = Ressources/🕹Stationen
