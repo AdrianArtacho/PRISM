@@ -105,3 +105,6 @@ url=https://github.com/AdrianArtacho/teach_GroovePizza
 [submodule "Ressources/🕹Launchpad"]
 	path = Ressources/🕹Launchpad
 	url = https://github.com/AdrianArtacho/launchpad.git
+[submodule "Workflow/TrelloActivity"]
+	path = Workflow/TrelloActivity
+	url = https://github.com/AdrianArtacho/TrelloActivity.git
