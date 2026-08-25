@@ -108,3 +108,6 @@ url=https://github.com/AdrianArtacho/teach_GroovePizza
 [submodule "Workflow/TrelloActivity"]
 	path = Workflow/TrelloActivity
 	url = https://github.com/AdrianArtacho/TrelloActivity.git
+[submodule "Workflow/Protocols"]
+	path = Workflow/Protocols
+	url = https://github.com/AdrianArtacho/PROTOCOLS.git
