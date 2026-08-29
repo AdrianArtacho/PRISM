@@ -111,3 +111,6 @@ url=https://github.com/AdrianArtacho/teach_GroovePizza
 [submodule "Workflow/Protocols"]
 	path = Workflow/Protocols
 	url = https://github.com/AdrianArtacho/PROTOCOLS.git
+[submodule "Workflow/SourcetreeActions"]
+	path = Workflow/SourcetreeActions
+	url = https://github.com/AdrianArtacho/SourcetreeActions.git
