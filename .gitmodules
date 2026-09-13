@@ -117,3 +117,6 @@ url=https://github.com/AdrianArtacho/teach_GroovePizza
 [submodule "Ressources/🕹️ClassLog"]
 	path = Ressources/🕹️ClassLog
 	url = git@github.com:AdrianArtacho/ClassLog.git
+[submodule "Workflow/m4l-folder-sync"]
+	path = Workflow/m4l-folder-sync
+	url = git@github.com:AdrianArtacho/m4l-folder-sync.git
