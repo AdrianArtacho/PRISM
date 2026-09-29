@@ -120,3 +120,6 @@ url=https://github.com/AdrianArtacho/teach_GroovePizza
 [submodule "Workflow/m4l-folder-sync"]
 	path = Workflow/m4l-folder-sync
 	url = git@github.com:AdrianArtacho/m4l-folder-sync.git
+[submodule "Workflow/pdf_preflight"]
+	path = Workflow/pdf_preflight
+	url = git@github.com:AdrianArtacho/pdf_preflight.git
