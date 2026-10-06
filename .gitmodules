@@ -123,3 +123,6 @@ url=https://github.com/AdrianArtacho/teach_GroovePizza
 [submodule "Workflow/pdf_preflight"]
 	path = Workflow/pdf_preflight
 	url = git@github.com:AdrianArtacho/pdf_preflight.git
+[submodule "Workflow/LaTeX"]
+	path = Workflow/LaTeX
+	url = https://github.com/AdrianArtacho/LaTeX.git
