@@ -126,6 +126,3 @@ url=https://github.com/AdrianArtacho/teach_GroovePizza
 [submodule "Workflow/LaTeX"]
 	path = Workflow/LaTeX
 	url = https://github.com/AdrianArtacho/LaTeX.git
-[submodule "Workflow/classroom"]
-	path = Workflow/classroom
-	url = git@github.com:AdrianArtacho/digital_classroom.git
