@@ -129,3 +129,6 @@ url=https://github.com/AdrianArtacho/teach_GroovePizza
 [submodule "Workflow/Classroom"]
 	path = Workflow/Classroom
 	url = https://github.com/AdrianArtacho/digital_classroom.git
+[submodule "Workflow/mechanography"]
+	path = Workflow/mechanography
+	url = git@github.com:AdrianArtacho/mechanography.git
