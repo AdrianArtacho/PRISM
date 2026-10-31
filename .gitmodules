@@ -132,3 +132,6 @@ url=https://github.com/AdrianArtacho/teach_GroovePizza
 [submodule "Workflow/mechanography"]
 	path = Workflow/mechanography
 	url = git@github.com:AdrianArtacho/mechanography.git
+[submodule "Workflow/patching-conventions"]
+	path = Workflow/patching-conventions
+	url = https://github.com/AdrianArtacho/patching-conventions.git
